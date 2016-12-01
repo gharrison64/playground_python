@@ -15,7 +15,7 @@ from tkinter.constants import BOTH
 #Set PANDAS to show all columns in DataFrame
 pd.set_option('display.max_columns', None)
 
-data_from_csv = pd.read_csv('/home/gchiles/data/WIKI-FB.csv')
+data_from_csv = pd.read_csv('WIKI-FB.csv')
 #print (data_from_csv.columns)
 
 mydates     = []
