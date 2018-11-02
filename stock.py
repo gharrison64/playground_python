@@ -6,8 +6,6 @@ Created on Nov 28, 2016
 '''
 import numpy as np
 import pandas as pd
-from pandas import DataFrame
-from pandas import Series
 import matplotlib.pyplot as plt
 from dateutil import parser
 from tkinter.constants import BOTH
